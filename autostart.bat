@@ -1,0 +1,1 @@
+start javaw -Xmx200m -jar C:\Users\tburakdirlik\Documents\NetBeansProjects\SHUT\dist\SHUTT.jar
